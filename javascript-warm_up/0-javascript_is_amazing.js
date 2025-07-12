@@ -1,9 +1,3 @@
-function welcome(firstName, lastName) {
-    const fullName = `${firstName} ${lastName}`;
-
-    function displayFullName() {
-        alert(`Welcome ${fullName}!`);
-    }
-
-    displayFullName();
-}
+#!/usr/bin/node
+const myVar = 'JavaScript is amazing';
+console.log(myVar);
