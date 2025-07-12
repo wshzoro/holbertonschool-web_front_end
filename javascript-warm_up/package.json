@@ -1,0 +1,9 @@
+{
+  "name": "javascript-warm-up",
+  "version": "1.0.0",
+  "description": "JavaScript warm up exercises",
+  "main": "0-javascript_is_amazing.js",
+  "scripts": {
+    "start": "node 0-javascript_is_amazing.js"
+  }
+}
